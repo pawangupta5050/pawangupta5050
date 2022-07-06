@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm dev.Pawan Gupta</h1>
-<h3 align="center">I am a Frontend Developer, I am a fresher in Frontend Development and Web Development. I have done an Internship in Dotnet development which was a live project. I am strong in design and integration with intuitive problem solving skills.</h3>
+<h3 align="center">I am a Frontend Developer, I have done an Internship in Dotnet development which was a live project. I am strong in design and integration with intuitive problem solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawangupta5050&label=Profile%20views&color=0e75b6&style=flat" alt="pawangupta5050" /> </p>
 
