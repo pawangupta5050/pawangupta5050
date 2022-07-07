@@ -26,7 +26,7 @@
 <a href="https://twitter.com/pawangupta5050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawangupta5050" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pawangupta20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawangupta20/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16097405/pawan-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16097405/pawan-gupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc4hlp-gqxv8kneytge3rvyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4hlp-gqxv8kneytge3rvyq" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/uc4hlp-gqxv8kneytge3rvyq](https://www.youtube.com/channel/UC4HLP-gqXV8kneYTGe3RVyQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4hlp-gqxv8kneytge3rvyq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
