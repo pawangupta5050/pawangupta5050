@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawangupta5050&show_icons=true&locale=en" alt="pawangupta5050" /></p>
 
-<img height=23 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawangupta5050" alt="pawangupta5050" /></p>
