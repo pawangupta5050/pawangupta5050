@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pawangupta5050&show_icons=true&locale=en" alt="pawangupta5050" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=pawangupta5050" alt="pawangupta5050" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawangupta5050" alt="pawangupta5050" /></p>
