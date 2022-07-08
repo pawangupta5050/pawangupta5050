@@ -36,6 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawangupta5050&show_icons=true&locale=en" alt="pawangupta5050" /></p>
 
-
-
-<img height=23 src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/sklearn-%233F4F75.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img height=23 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
