@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pawanrocks5050@gmail.com**
 
-- ⚡ Fun fact **Sarcasm at its top**
+- ⚡ Fun fact **Coding can “power up” your brain**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
