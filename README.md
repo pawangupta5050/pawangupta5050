@@ -163,7 +163,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/pawangupta5050/pawangupta5050/output/snake.svg" alt="Snake animation" />
-
-###
